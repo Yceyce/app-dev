@@ -3,7 +3,7 @@ My first repository
 
 | Syntax | Favorite Movie |
 | ----------- | ----------- |
-| Header | Lolo and the Kid |
-| Paragraph | The movie was great |
-| Paragraph | The movie is about a Grandfather and his adopted Grandson |
-| Paragraph | The movie is about the relationship of grandfather and grandson|
+| Title | Lolo and the Kid |
+| 1st Description | The movie was great |
+| 2nd Description | The movie is about a Grandfather and his adopted Grandson |
+| 3rd Description | The movie is about the relationship between grandfather and grandson|
