@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-```
+
 | Syntax | Favorite Movie |
 | ----------- | ----------- |
 | Header | Lolo and the Kid |
